@@ -5,7 +5,7 @@ public class Pig extends FarmAnimal {
 
   //dynamic
   public Pig(int serialCode) {
-    super(Name,serialCode);
+    super(serialCode);
   }
 
   @Override
